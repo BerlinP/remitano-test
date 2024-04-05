@@ -1,0 +1,12 @@
+
+.anchor
+.DS_Store
+**/*.rs.bk
+node_modules
+test-ledger
+.yarn
+.env
+/target/**
+!/target/deploy
+/target/deploy/*.so
+!/target/deploy/remitano_test-keypair.json
